@@ -2,6 +2,8 @@
 
 A visually appealing and interactive simulation of the Solar System built with HTML, CSS, and Vanilla JavaScript.
 
+![Solar System Simulation Screenshot](assets/screenshot.png)
+
 ## Features
 
 - **Realistic Orbits**: Planets orbit the Sun at relative speeds based on real-world data.
